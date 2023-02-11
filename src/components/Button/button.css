@@ -1,0 +1,12 @@
+button {
+    flex: 1;
+    margin: 3px;
+    font-size: 30px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+button:hover {
+    opacity: 0.8;
+}

@@ -1,0 +1,53 @@
+#app {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    align-items: center;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+#main {
+    background-color: #DCDDDC;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.body {
+    width: 400px;
+}
+
+.header-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 60px;
+}
+
+.body-button {
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+}
+
+.number-button {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    flex: 8;
+    height: 200px;
+}
+
+.calculate-button {
+    flex: 2;
+    display: grid;
+    grid-template-columns: auto;
+}
+
+.ce-button {
+    flex: 1;
+    display: flex;
+    background-color: aqua;
+}

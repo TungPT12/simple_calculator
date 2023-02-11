@@ -1,0 +1,39 @@
+.screen {
+    background-color: #fff;
+    margin: 3px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(181, 181, 182);
+    border-radius: 5px;
+    box-shadow: rgb(225, 225, 225) 0px 0px 15px 0px inset;
+    height: 80px;
+    justify-content: center;
+}
+
+p, h1 {
+    justify-content: flex-end;
+    display: flex;
+    margin-right: 2px;
+}
+
+p {
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+    font-weight: 100;
+    color: #8A8C8A;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px;
+    font-size: 25px;
+}
+
+h1 {
+    border-top-right-radius: 2px;
+    border-top-left-radius: 2px;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px;
+    font-size: 40px;
+}
+
+
+
