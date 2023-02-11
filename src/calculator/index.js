@@ -120,7 +120,7 @@ function Calculator() {
             showCalculate = `${preValue} / ${currentValue} = `
         }
         setPreValue(showCalculate);
-        setCurrentValue(result.toFixed(5))
+        setCurrentValue(result)
     }
         
 
