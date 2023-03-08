@@ -4,6 +4,7 @@ Introduction
 * Project have one page
 * Project is static web and no responsive
 * The project can calculate basic math operations: addition, subtraction, multiplication and division
+* Link prject: https://simple-calculator-tungpt12.netlify.app/
 
 Prerequisites
 
